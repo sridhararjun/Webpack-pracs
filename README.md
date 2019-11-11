@@ -1,3 +1,5 @@
-# Let's Learn Webpack 2
+About this repository:
 
-> A [HowToCode.io](https://www.howtocode.io) tutorial on learning [Webpack 2](https://webpack.js.org)
+This repository has sequential commits of the basic configuration for a webapp and its relevant webpack configuration that needs to be done.
+
+Kindly check the commits in order!!!
