@@ -12,14 +12,23 @@
   "author": "Sridhar Muraleedar",
   "license": "MIT",
   "devDependencies": {
+    "autoprefixer": "^9.7.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.0.6",
     "babel-preset-env": "^1.7.0",
     "css-loader": "^3.2.0",
+    "cssnano": "^4.1.10",
+    "lost": "^8.3.1",
     "node-sass": "^4.13.0",
+    "postcss-loader": "^3.0.0",
+    "rucksack-css": "^1.0.2",
     "sass-loader": "^8.0.0",
     "style-loader": "^1.0.0",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
-  }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
 }
